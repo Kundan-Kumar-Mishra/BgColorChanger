@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    margin: 0;
+    
+}
+
+.canvas{
+    margin: 80px auto;
+    width: 80%;
+}
+.button
+{
+    display: inline-block;
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+#grey{
+    background-color: #4f46e5;
+}
+#red{
+    background-color: #db1111;
+}
+#green{
+    background-color: green;
+}
+#white{
+    background-color: blanchedalmond;
+}
+#black{
+    background-color: black;
+}
